@@ -1,6 +1,8 @@
-# mig\_exp
+# MISO: Exploiting Multi-Instance GPU Capability on Multi-Tenant GPU Clusters, 2022 ACM Symposium on Cloud Computing
 
-## Experiment Process
+## Experiment Setup
+We run MISO on 4 GPU nodes, each node has 2 NVIDIA A100 GPUs. Sudo access is required.
+
 On each GPU node, first copy the necessary files into memory.
 `./copy_memory.sh`
 
@@ -29,7 +31,5 @@ Import functions from this helper to configure MIG slices
 ### controller\_helper.py
 Experiment helper, decides on action to do when received signal from jobs
 
-### dev
-open controller\_helper.py and scheme\_full.py together
-
-open miso\_exp.py and dash\_main.py together
+## Note
+This repo is still WIP.
