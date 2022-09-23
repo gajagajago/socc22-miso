@@ -1,0 +1,10 @@
+{
+    "bert": 18,
+    "cyclegan": 44,
+    "deepspeech2": 14,
+    "embedding": 4,
+    "gnn": 5,
+    "mobilenet": 7,
+    "resnet": 9,
+    "transformer": 5
+}

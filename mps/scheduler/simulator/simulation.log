@@ -1,0 +1,935 @@
+Schedule time: 65
+job 49 scheduled on GPU 0, jobs [49], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 120
+job 109 scheduled on GPU 1, jobs [109], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 180
+job 95 scheduled on GPU 2, jobs [95], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 206
+job 109 finished
+Schedule time: 237
+job 13 scheduled on GPU 1, jobs [13], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 293
+job 147 scheduled on GPU 3, jobs [147], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 306
+job 49 finished
+Finish time: 334
+job 13 finished
+Schedule time: 350
+job 5 scheduled on GPU 0, jobs [5], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 425
+job 5 finished
+Schedule time: 425
+job 142 scheduled on GPU 0, jobs [142], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 483
+job 10 scheduled on GPU 1, jobs [10], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 519
+job 147 finished
+Schedule time: 563
+job 4 scheduled on GPU 3, jobs [4], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 572
+job 10 finished
+Finish time: 623
+job 142 finished
+Schedule time: 627
+job 190 scheduled on GPU 0, jobs [190], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 635
+job 4 finished
+Schedule time: 664
+job 69 scheduled on GPU 1, jobs [69], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 718
+job 94 scheduled on GPU 3, jobs [94], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 788
+job 6 scheduled on GPU 4, jobs [6], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 856
+job 18 scheduled on GPU 5, jobs [18], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 866
+job 6 finished
+Schedule time: 916
+job 162 scheduled on GPU 4, jobs [162], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 967
+job 18 finished
+Schedule time: 967
+job 112 scheduled on GPU 5, jobs [112], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 1027
+job 120 scheduled on GPU 6, jobs [120], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 1062
+job 112 finished
+Schedule time: 1085
+job 172 scheduled on GPU 5, jobs [172], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 1131
+job 28 scheduled on GPU 7, jobs [28], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 1144
+job 120 finished
+Schedule time: 1190
+job 80 scheduled on GPU 6, jobs [80], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 1240
+job 69 finished
+Schedule time: 1243
+job 62 scheduled on GPU 1, jobs [62], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 1273
+job 28 finished
+Schedule time: 1312
+job 78 scheduled on GPU 7, jobs [78], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 1315
+job 162 finished
+Schedule time: 1372
+job 46 scheduled on GPU 4, jobs [46], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 1437
+job 64 scheduled on GPU 0, jobs [190, 64], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.311216348753986
+Schedule time: 1492
+job 105 scheduled on GPU 1, jobs [62, 105], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.504826675003447
+Schedule time: 1540
+job 137 scheduled on GPU 2, jobs [95, 137], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.4957386178415577
+Finish time: 1592
+job 46 finished
+Schedule time: 1594
+job 48 scheduled on GPU 4, jobs [48], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 1633
+job 105 finished
+MIG re-partition on GPU 1, jobs [62], slice ['7g.40gb'], 1 migration counts
+Schedule time: 1647
+job 45 scheduled on GPU 1, jobs [62, 45], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.3675467848678742
+Finish time: 1683
+job 62 finished
+MIG re-partition on GPU 1, jobs [45], slice ['7g.40gb'], 1 migration counts
+Schedule time: 1707
+job 27 scheduled on GPU 1, jobs [45, 27], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.4689818544976854
+Finish time: 1750
+job 172 finished
+Schedule time: 1771
+job 60 scheduled on GPU 5, jobs [60], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 1775
+job 137 finished
+MIG re-partition on GPU 2, jobs [95], slice ['7g.40gb'], 1 migration counts
+Finish time: 1828
+job 48 finished
+Schedule time: 1829
+job 145 scheduled on GPU 4, jobs [145], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 1885
+job 139 scheduled on GPU 2, jobs [95, 139], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.8572014038792337
+Finish time: 1900
+job 27 finished
+MIG re-partition on GPU 1, jobs [45], slice ['7g.40gb'], 1 migration counts
+Finish time: 1938
+job 45 finished
+Schedule time: 1942
+job 32 scheduled on GPU 1, jobs [32], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 1994
+job 16 scheduled on GPU 1, jobs [32, 16], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.5285400824838355
+Finish time: 2043
+job 145 finished
+Schedule time: 2059
+job 35 scheduled on GPU 4, jobs [35], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 2103
+job 32 finished
+MIG re-partition on GPU 1, jobs [16], slice ['7g.40gb'], 1 migration counts
+Schedule time: 2127
+job 171 scheduled on GPU 1, jobs [16, 171], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.7997843559597295
+Finish time: 2131
+job 64 finished
+MIG re-partition on GPU 0, jobs [190], slice ['7g.40gb'], 1 migration counts
+Finish time: 2136
+job 60 finished
+Finish time: 2176
+job 16 finished
+MIG re-partition on GPU 1, jobs [171], slice ['7g.40gb'], 1 migration counts
+Schedule time: 2192
+job 166 scheduled on GPU 5, jobs [166], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 2227
+job 35 finished
+Finish time: 2238
+job 139 finished
+MIG re-partition on GPU 2, jobs [95], slice ['7g.40gb'], 1 migration counts
+Schedule time: 2253
+job 138 scheduled on GPU 4, jobs [138], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 2289
+job 78 finished
+Finish time: 2301
+job 80 finished
+Schedule time: 2308
+job 136 scheduled on GPU 6, jobs [136], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 2363
+job 71 scheduled on GPU 7, jobs [71], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 2427
+job 158 scheduled on GPU 0, jobs [190, 158], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.2033324097454996
+Finish time: 2433
+job 138 finished
+Finish time: 2480
+job 136 finished
+Schedule time: 2506
+job 20 scheduled on GPU 4, jobs [20], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 2582
+job 15 scheduled on GPU 6, jobs [15], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 2623
+job 20 finished
+Schedule time: 2645
+job 115 scheduled on GPU 4, jobs [115], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 2684
+job 166 finished
+Finish time: 2685
+job 15 finished
+Schedule time: 2710
+job 19 scheduled on GPU 5, jobs [19], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 2748
+job 115 finished
+Schedule time: 2751
+job 61 scheduled on GPU 4, jobs [61], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 2780
+job 171 finished
+Schedule time: 2818
+job 177 scheduled on GPU 1, jobs [177], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 2824
+job 19 finished
+Finish time: 2859
+job 158 finished
+MIG re-partition on GPU 0, jobs [190], slice ['7g.40gb'], 1 migration counts
+Schedule time: 2881
+job 194 scheduled on GPU 5, jobs [194], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 2956
+job 149 scheduled on GPU 6, jobs [149], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 2976
+job 190 finished
+Finish time: 2997
+job 71 finished
+Schedule time: 3012
+job 38 scheduled on GPU 0, jobs [38], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 3064
+job 129 scheduled on GPU 7, jobs [129], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 3133
+job 61 finished
+Schedule time: 3134
+job 50 scheduled on GPU 4, jobs [50], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 3191
+job 93 scheduled on GPU 0, jobs [38, 93], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.7540998657023763
+Finish time: 3193
+job 38 finished
+MIG re-partition on GPU 0, jobs [93], slice ['7g.40gb'], 1 migration counts
+Finish time: 3197
+job 149 finished
+Finish time: 3209
+job 129 finished
+Schedule time: 3251
+job 159 scheduled on GPU 6, jobs [159], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 3318
+job 179 scheduled on GPU 7, jobs [179], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 3382
+job 50 finished
+Schedule time: 3393
+job 3 scheduled on GPU 4, jobs [3], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 3457
+job 36 scheduled on GPU 0, jobs [93, 36], slice ['3g.20gb', '3g.20gb'], new mean degradation 2.063671368463088
+Finish time: 3462
+job 3 finished
+Schedule time: 3521
+job 0 scheduled on GPU 4, jobs [0], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 3578
+job 39 scheduled on GPU 1, jobs [177, 39], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.9333475577506447
+Finish time: 3582
+job 0 finished
+Finish time: 3600
+job 159 finished
+Schedule time: 3644
+job 126 scheduled on GPU 4, jobs [126], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 3701
+job 2 scheduled on GPU 6, jobs [2], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 3768
+job 2 finished
+Schedule time: 3771
+job 131 scheduled on GPU 6, jobs [131], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 3779
+job 126 finished
+Finish time: 3807
+job 36 finished
+MIG re-partition on GPU 0, jobs [93], slice ['7g.40gb'], 1 migration counts
+Schedule time: 3830
+job 183 scheduled on GPU 4, jobs [183], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 3848
+job 177 finished
+MIG re-partition on GPU 1, jobs [39], slice ['7g.40gb'], 1 migration counts
+Schedule time: 3887
+job 152 scheduled on GPU 0, jobs [93, 152], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.8046260122307722
+Finish time: 3891
+job 39 finished
+Finish time: 3924
+job 131 finished
+Schedule time: 3945
+job 12 scheduled on GPU 1, jobs [12], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 4001
+job 184 scheduled on GPU 6, jobs [184], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 4040
+job 12 finished
+Finish time: 4059
+job 94 finished
+Schedule time: 4067
+job 110 scheduled on GPU 1, jobs [110], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 4127
+job 24 scheduled on GPU 3, jobs [24], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 4156
+job 110 finished
+Finish time: 4192
+job 95 finished
+Schedule time: 4195
+job 11 scheduled on GPU 1, jobs [11], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 4251
+job 168 scheduled on GPU 2, jobs [168], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 4256
+job 24 finished
+Finish time: 4287
+job 11 finished
+Finish time: 4310
+job 152 finished
+MIG re-partition on GPU 0, jobs [93], slice ['7g.40gb'], 1 migration counts
+Schedule time: 4312
+job 135 scheduled on GPU 1, jobs [135], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 4352
+job 179 finished
+Schedule time: 4385
+job 170 scheduled on GPU 3, jobs [170], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 4438
+job 198 scheduled on GPU 7, jobs [198], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 4480
+job 135 finished
+Schedule time: 4523
+job 52 scheduled on GPU 1, jobs [52], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 4577
+job 182 scheduled on GPU 0, jobs [93, 182], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.7382596430296524
+Schedule time: 4628
+job 99 scheduled on GPU 1, jobs [52, 99], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.4771530269805682
+Schedule time: 4680
+job 22 scheduled on GPU 2, jobs [168, 22], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.6925124280743868
+Schedule time: 4726
+job 56 scheduled on GPU 3, jobs [170, 56], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.4430563591528014
+Schedule time: 4790
+job 157 scheduled on GPU 4, jobs [183, 157], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.9142111127752077
+Schedule time: 4862
+job 178 scheduled on GPU 5, jobs [194, 178], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.2700805233460262
+Finish time: 4881
+job 168 finished
+MIG re-partition on GPU 2, jobs [22], slice ['7g.40gb'], 1 migration counts
+Finish time: 4884
+job 52 finished
+MIG re-partition on GPU 1, jobs [99], slice ['7g.40gb'], 1 migration counts
+Finish time: 4885
+job 22 finished
+Schedule time: 4920
+job 195 scheduled on GPU 2, jobs [195], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 4980
+job 124 scheduled on GPU 1, jobs [99, 124], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.3683477032967875
+Schedule time: 5028
+job 125 scheduled on GPU 2, jobs [195, 125], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.6824482466937156
+Finish time: 5041
+job 56 finished
+MIG re-partition on GPU 3, jobs [170], slice ['7g.40gb'], 1 migration counts
+Schedule time: 5076
+job 77 scheduled on GPU 3, jobs [170, 77], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.8426178884659306
+Schedule time: 5127
+job 143 scheduled on GPU 6, jobs [184, 143], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.0873436476523919
+Finish time: 5160
+job 124 finished
+MIG re-partition on GPU 1, jobs [99], slice ['7g.40gb'], 1 migration counts
+Finish time: 5170
+job 170 finished
+MIG re-partition on GPU 3, jobs [77], slice ['7g.40gb'], 1 migration counts
+Schedule time: 5179
+job 43 scheduled on GPU 1, jobs [99, 43], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.2045769394367014
+Finish time: 5237
+job 125 finished
+MIG re-partition on GPU 2, jobs [195], slice ['7g.40gb'], 1 migration counts
+Schedule time: 5242
+job 113 scheduled on GPU 2, jobs [195, 113], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.496439596038772
+Schedule time: 5295
+job 187 scheduled on GPU 3, jobs [77, 187], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.7791118786881004
+Finish time: 5336
+job 143 finished
+MIG re-partition on GPU 6, jobs [184], slice ['7g.40gb'], 1 migration counts
+Schedule time: 5357
+job 26 scheduled on GPU 6, jobs [184, 26], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.51839362554042
+Finish time: 5372
+job 113 finished
+MIG re-partition on GPU 2, jobs [195], slice ['7g.40gb'], 1 migration counts
+Finish time: 5388
+job 43 finished
+MIG re-partition on GPU 1, jobs [99], slice ['7g.40gb'], 1 migration counts
+Schedule time: 5417
+job 30 scheduled on GPU 1, jobs [99, 30], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.6914621723986616
+Finish time: 5439
+job 157 finished
+MIG re-partition on GPU 4, jobs [183], slice ['7g.40gb'], 1 migration counts
+Schedule time: 5467
+job 106 scheduled on GPU 2, jobs [195, 106], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.761408700836832
+Schedule time: 5515
+job 23 scheduled on GPU 4, jobs [183, 23], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.7054459740214454
+Finish time: 5530
+job 183 finished
+MIG re-partition on GPU 4, jobs [23], slice ['7g.40gb'], 1 migration counts
+Finish time: 5560
+job 184 finished
+MIG re-partition on GPU 6, jobs [26], slice ['7g.40gb'], 1 migration counts
+Schedule time: 5564
+job 42 scheduled on GPU 4, jobs [23, 42], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.322031940904884
+Finish time: 5584
+job 26 finished
+Finish time: 5617
+job 106 finished
+MIG re-partition on GPU 2, jobs [195], slice ['7g.40gb'], 1 migration counts
+Schedule time: 5625
+job 37 scheduled on GPU 6, jobs [37], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 5690
+job 192 scheduled on GPU 2, jobs [195, 192], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.6369430347239566
+Finish time: 5697
+job 23 finished
+MIG re-partition on GPU 4, jobs [42], slice ['7g.40gb'], 1 migration counts
+Finish time: 5703
+job 30 finished
+MIG re-partition on GPU 1, jobs [99], slice ['7g.40gb'], 1 migration counts
+Schedule time: 5743
+job 176 scheduled on GPU 1, jobs [99, 176], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.6594045936628574
+Finish time: 5771
+job 42 finished
+Finish time: 5801
+job 37 finished
+Schedule time: 5805
+job 189 scheduled on GPU 4, jobs [189], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 5865
+job 104 scheduled on GPU 6, jobs [104], slice ['7g.40gb'], new mean degradation 1.0
+Schedule time: 5924
+job 74 scheduled on GPU 4, jobs [189, 74], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.5189527774815104
+Finish time: 5937
+job 104 finished
+Schedule time: 5960
+job 83 scheduled on GPU 6, jobs [83], slice ['7g.40gb'], new mean degradation 1.0
+Finish time: 6009
+job 178 finished
+MIG re-partition on GPU 5, jobs [194], slice ['7g.40gb'], 1 migration counts
+Schedule time: 6031
+job 89 scheduled on GPU 5, jobs [194, 89], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.4692466126464563
+Schedule time: 6081
+job 196 scheduled on GPU 6, jobs [83, 196], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.6928070241586746
+Schedule time: 6148
+job 73 scheduled on GPU 7, jobs [198, 73], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.2781421658779948
+Schedule time: 6192
+job 111 scheduled on GPU 0, jobs [182, 111, 93], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.075882687140929
+Schedule time: 6251
+job 154 scheduled on GPU 1, jobs [99, 154, 176], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.9799639110443827
+Schedule time: 6310
+job 175 scheduled on GPU 2, jobs [192, 175, 195], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.7124726900932128
+Finish time: 6366
+job 111 finished
+MIG re-partition on GPU 0, jobs [182, 93], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 6376
+job 130 scheduled on GPU 0, jobs [182, 130, 93], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.5184214461294356
+Schedule time: 6429
+job 70 scheduled on GPU 3, jobs [77, 187, 70], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.5438115923211826
+Schedule time: 6509
+job 122 scheduled on GPU 4, jobs [189, 74, 122], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.979836242453236
+Schedule time: 6562
+job 119 scheduled on GPU 5, jobs [194, 119, 89], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.7367399913464714
+Schedule time: 6628
+job 58 scheduled on GPU 6, jobs [196, 58, 83], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.972488590695202
+Schedule time: 6678
+job 127 scheduled on GPU 7, jobs [198, 73, 127], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.5132711626517017
+Finish time: 6682
+job 182 finished
+MIG re-partition on GPU 0, jobs [130, 93], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 6693
+job 194 finished
+MIG re-partition on GPU 5, jobs [119, 89], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 6706
+job 77 finished
+MIG re-partition on GPU 3, jobs [187, 70], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 6716
+job 122 finished
+MIG re-partition on GPU 4, jobs [189, 74], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 6738
+job 66 scheduled on GPU 0, jobs [93, 130, 66], slice ['4g.20gb', '2g.10gb', '1g.5gb'], new mean degradation 2.054511321111989
+Finish time: 6749
+job 119 finished
+MIG re-partition on GPU 5, jobs [89], slice ['7g.40gb'], 1 migration counts
+Finish time: 6786
+job 154 finished
+MIG re-partition on GPU 1, jobs [99, 176], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 6796
+job 130 finished
+MIG re-partition on GPU 0, jobs [93, 66], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 6797
+job 161 scheduled on GPU 5, jobs [89, 161], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.8196268057964176
+Schedule time: 6843
+job 123 scheduled on GPU 0, jobs [93, 123, 66], slice ['4g.20gb', '2g.10gb', '1g.5gb'], new mean degradation 1.819044462307132
+Finish time: 6871
+job 127 finished
+MIG re-partition on GPU 7, jobs [198, 73], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 6904
+job 68 scheduled on GPU 1, jobs [99, 176, 68], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.3730754541440224
+Schedule time: 6976
+job 150 scheduled on GPU 3, jobs [187, 150, 70], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.54505758834203
+Schedule time: 7040
+job 65 scheduled on GPU 4, jobs [189, 74, 65], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.0147167285054537
+Finish time: 7073
+job 74 finished
+MIG re-partition on GPU 4, jobs [189, 65], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 7101
+job 191 scheduled on GPU 4, jobs [189, 191, 65], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.9978140386537468
+Schedule time: 7153
+job 151 scheduled on GPU 5, jobs [89, 151, 161], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.301953339051698
+Finish time: 7172
+job 123 finished
+MIG re-partition on GPU 0, jobs [93, 66], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 7196
+job 58 finished
+MIG re-partition on GPU 6, jobs [196, 83], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 7198
+job 84 scheduled on GPU 0, jobs [93, 84, 66], slice ['4g.20gb', '2g.10gb', '1g.5gb'], new mean degradation 1.4453631824284396
+Finish time: 7222
+job 73 finished
+MIG re-partition on GPU 7, jobs [198], slice ['7g.40gb'], 1 migration counts
+Finish time: 7256
+job 175 finished
+MIG re-partition on GPU 2, jobs [192, 195], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 7256
+job 34 scheduled on GPU 7, jobs [198, 34], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.3246885574822687
+Schedule time: 7317
+job 51 scheduled on GPU 2, jobs [192, 51, 195], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.1387746884852534
+Finish time: 7330
+job 66 finished
+MIG re-partition on GPU 0, jobs [93, 84], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 7395
+job 132 scheduled on GPU 0, jobs [84, 132, 93], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.5166827730729076
+Schedule time: 7451
+job 47 scheduled on GPU 6, jobs [196, 47, 83], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.0211231730865324
+Schedule time: 7506
+job 188 scheduled on GPU 7, jobs [198, 188, 34], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.7307289281748843
+Finish time: 7514
+job 70 finished
+MIG re-partition on GPU 3, jobs [187, 150], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 7520
+job 34 finished
+MIG re-partition on GPU 7, jobs [198, 188], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 7537
+job 161 finished
+MIG re-partition on GPU 5, jobs [89, 151], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 7566
+job 87 scheduled on GPU 3, jobs [187, 87, 150], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.436108290244256
+Finish time: 7579
+job 132 finished
+MIG re-partition on GPU 0, jobs [84, 93], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 7619
+job 176 finished
+MIG re-partition on GPU 1, jobs [99, 68], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 7633
+job 146 scheduled on GPU 0, jobs [84, 146, 93], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.6746419630492948
+Finish time: 7646
+job 150 finished
+MIG re-partition on GPU 3, jobs [187, 87], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 7702
+job 199 scheduled on GPU 1, jobs [99, 199, 68], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.978494545878916
+Finish time: 7708
+job 151 finished
+MIG re-partition on GPU 5, jobs [89], slice ['7g.40gb'], 1 migration counts
+Schedule time: 7777
+job 102 scheduled on GPU 5, jobs [89, 102], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.824771678917862
+Finish time: 7826
+job 68 finished
+MIG re-partition on GPU 1, jobs [99, 199], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 7838
+job 1 scheduled on GPU 1, jobs [99, 1, 199], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.7529019751317827
+Finish time: 7877
+job 47 finished
+MIG re-partition on GPU 6, jobs [196, 83], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 7879
+job 65 finished
+MIG re-partition on GPU 4, jobs [189, 191], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 7890
+job 155 scheduled on GPU 3, jobs [187, 87, 155], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.499968592104945
+Finish time: 7914
+job 102 finished
+MIG re-partition on GPU 5, jobs [89], slice ['7g.40gb'], 1 migration counts
+Schedule time: 7958
+job 91 scheduled on GPU 5, jobs [89, 91], slice ['3g.20gb', '3g.20gb'], new mean degradation 1.5398521004972248
+Finish time: 7959
+job 1 finished
+MIG re-partition on GPU 1, jobs [99, 199], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 7976
+job 51 finished
+MIG re-partition on GPU 2, jobs [192, 195], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 8010
+job 146 finished
+MIG re-partition on GPU 0, jobs [84, 93], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 8025
+job 96 scheduled on GPU 0, jobs [84, 96, 93], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.9112444561879975
+Schedule time: 8093
+job 55 scheduled on GPU 1, jobs [99, 199, 55], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.046768882599492
+Schedule time: 8145
+job 193 scheduled on GPU 2, jobs [192, 193, 195], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.45786405088163
+Schedule time: 8207
+job 163 scheduled on GPU 4, jobs [189, 191, 163], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.9897747058255426
+Finish time: 8208
+job 93 finished
+MIG re-partition on GPU 0, jobs [84, 96], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 8264
+job 180 scheduled on GPU 0, jobs [84, 180, 96], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.3972885418189793
+Schedule time: 8318
+job 101 scheduled on GPU 5, jobs [91, 101, 89], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.7440134007987227
+Schedule time: 8393
+job 133 scheduled on GPU 6, jobs [196, 133, 83], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.8848519279489253
+Finish time: 8430
+job 155 finished
+MIG re-partition on GPU 3, jobs [187, 87], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 8439
+job 101 finished
+MIG re-partition on GPU 5, jobs [91, 89], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 8444
+job 185 scheduled on GPU 3, jobs [187, 185, 87], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.084454856298687
+Schedule time: 8497
+job 148 scheduled on GPU 5, jobs [91, 89, 148], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.03178980645421
+Finish time: 8500
+job 83 finished
+MIG re-partition on GPU 6, jobs [196, 133], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 8556
+job 81 scheduled on GPU 6, jobs [133, 81, 196], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.4614332447963754
+Finish time: 8606
+job 133 finished
+MIG re-partition on GPU 6, jobs [81, 196], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 8613
+job 53 scheduled on GPU 6, jobs [81, 196, 53], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.777286458108869
+Finish time: 8633
+job 55 finished
+MIG re-partition on GPU 1, jobs [99, 199], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 8668
+job 76 scheduled on GPU 1, jobs [99, 199, 76], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.063367928671374
+Schedule time: 8725
+job 173 scheduled on GPU 7, jobs [198, 173, 188], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.5629073644406042
+Schedule time: 8784
+job 79 scheduled on GPU 0, jobs [180, 96, 79, 84], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 1.7784786961835342
+Schedule time: 8838
+job 117 scheduled on GPU 1, jobs [99, 76, 117, 199], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 3.092828369720823
+Schedule time: 8903
+job 197 scheduled on GPU 2, jobs [193, 192, 197, 195], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 3.044207890516879
+Finish time: 8925
+job 148 finished
+MIG re-partition on GPU 5, jobs [91, 89], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 8955
+job 169 scheduled on GPU 5, jobs [91, 89, 169], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.9321843330840522
+Finish time: 8973
+job 163 finished
+MIG re-partition on GPU 4, jobs [189, 191], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 9015
+job 90 scheduled on GPU 4, jobs [191, 90, 189], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.5401236261149807
+Finish time: 9052
+job 53 finished
+MIG re-partition on GPU 6, jobs [81, 196], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 9085
+job 140 scheduled on GPU 6, jobs [81, 196, 140], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.7952469625302563
+Schedule time: 9143
+job 92 scheduled on GPU 3, jobs [187, 87, 92, 185], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.650888662015947
+Finish time: 9151
+job 117 finished
+MIG re-partition on GPU 1, jobs [99, 76, 199], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 9201
+job 63 scheduled on GPU 1, jobs [76, 99, 199, 63], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 3.2913383803555196
+Schedule time: 9267
+job 118 scheduled on GPU 4, jobs [191, 118, 90, 189], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 1.652016683465685
+Schedule time: 9322
+job 153 scheduled on GPU 5, jobs [89, 169, 153, 91], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.768084995377223
+Schedule time: 9384
+job 141 scheduled on GPU 6, jobs [81, 141, 196, 140], slice ['1g.5gb', '1g.5gb', '2g.10gb', '3g.20gb'], new mean degradation 2.003250960310634
+Finish time: 9387
+job 140 finished
+MIG re-partition on GPU 6, jobs [141, 196, 81], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Finish time: 9444
+job 118 finished
+MIG re-partition on GPU 4, jobs [191, 90, 189], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 9447
+job 86 scheduled on GPU 4, jobs [191, 189, 86, 90], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.269995318372611
+Schedule time: 9510
+job 88 scheduled on GPU 6, jobs [88, 141, 81, 196], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 1.9791074742049193
+Finish time: 9560
+job 84 finished
+MIG re-partition on GPU 0, jobs [180, 96, 79], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 9565
+job 128 scheduled on GPU 0, jobs [180, 96, 79, 128], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 1.60016432142528
+Schedule time: 9616
+job 17 scheduled on GPU 7, jobs [173, 188, 17, 198], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.326358800127063
+Finish time: 9676
+job 141 finished
+MIG re-partition on GPU 6, jobs [88, 81, 196], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 9686
+job 8 scheduled on GPU 3, jobs [187, 87, 92, 185, 8], slice ['1g.5gb', '1g.5gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 3.8594323778473423
+Finish time: 9695
+job 180 finished
+MIG re-partition on GPU 0, jobs [96, 79, 128], slice ['4g.20gb', '2g.10gb', '1g.5gb'], 1 migration counts
+Schedule time: 9730
+job 134 scheduled on GPU 0, jobs [96, 79, 128, 134], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 1.886990695525819
+Finish time: 9767
+job 128 finished
+MIG re-partition on GPU 0, jobs [96, 79, 134], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 9794
+job 144 scheduled on GPU 0, jobs [96, 134, 144, 79], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.496453362379563
+Schedule time: 9848
+job 114 scheduled on GPU 6, jobs [88, 196, 114, 81], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.086298662538189
+Finish time: 9857
+job 8 finished
+MIG re-partition on GPU 3, jobs [187, 92, 185, 87], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], 2 migration counts
+Schedule time: 9898
+job 67 scheduled on GPU 1, jobs [76, 99, 199, 67, 63], slice ['1g.5gb', '1g.5gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 4.082156204935037
+Finish time: 9929
+job 17 finished
+MIG re-partition on GPU 7, jobs [173, 188, 198], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 9960
+job 100 scheduled on GPU 7, jobs [173, 198, 188, 100], slice ['1g.5gb', '1g.5gb', '2g.10gb', '3g.20gb'], new mean degradation 2.449748890953391
+Finish time: 9964
+job 187 finished
+MIG re-partition on GPU 3, jobs [92, 185, 87], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Finish time: 9967
+job 63 finished
+MIG re-partition on GPU 1, jobs [99, 199, 67, 76], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], 2 migration counts
+Finish time: 9999
+job 114 finished
+MIG re-partition on GPU 6, jobs [88, 196, 81], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 10029
+job 7 scheduled on GPU 3, jobs [87, 92, 185, 7], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 2.916022718190219
+Finish time: 10030
+job 153 finished
+MIG re-partition on GPU 5, jobs [89, 169, 91], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 10035
+job 189 finished
+MIG re-partition on GPU 4, jobs [191, 86, 90], slice ['4g.20gb', '2g.10gb', '1g.5gb'], 1 migration counts
+Finish time: 10063
+job 100 finished
+MIG re-partition on GPU 7, jobs [198, 188, 173], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Finish time: 10087
+job 173 finished
+MIG re-partition on GPU 7, jobs [198, 188], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 10089
+job 33 scheduled on GPU 7, jobs [198, 33, 188], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.4441438330777112
+Finish time: 10097
+job 89 finished
+MIG re-partition on GPU 5, jobs [169, 91], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 10116
+job 134 finished
+MIG re-partition on GPU 0, jobs [96, 144, 79], slice ['4g.20gb', '2g.10gb', '1g.5gb'], 1 migration counts
+Schedule time: 10162
+job 82 scheduled on GPU 5, jobs [91, 82, 169], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.916002060806127
+Finish time: 10169
+job 169 finished
+MIG re-partition on GPU 5, jobs [91, 82], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 10194
+job 7 finished
+MIG re-partition on GPU 3, jobs [87, 185, 92], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Schedule time: 10223
+job 186 scheduled on GPU 5, jobs [91, 82, 186], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.0013394953309085
+Finish time: 10236
+job 81 finished
+MIG re-partition on GPU 6, jobs [88, 196], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 10286
+job 57 scheduled on GPU 6, jobs [88, 196, 57], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.2386539777647716
+Finish time: 10317
+job 33 finished
+MIG re-partition on GPU 7, jobs [198, 188], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 10341
+job 98 scheduled on GPU 7, jobs [198, 98, 188], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.3888616219105616
+Finish time: 10363
+job 79 finished
+MIG re-partition on GPU 0, jobs [96, 144], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 10399
+job 181 scheduled on GPU 0, jobs [96, 181, 144], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.8774347868142771
+Finish time: 10403
+job 144 finished
+MIG re-partition on GPU 0, jobs [96, 181], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 10449
+job 72 scheduled on GPU 0, jobs [181, 72, 96], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.422105844543845
+Schedule time: 10511
+job 9 scheduled on GPU 0, jobs [96, 181, 72, 9], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 2.160922492549083
+Schedule time: 10557
+job 156 scheduled on GPU 3, jobs [92, 185, 156, 87], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 1.997593460972467
+Schedule time: 10612
+job 174 scheduled on GPU 4, jobs [191, 86, 174, 90], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.1337947014997036
+Finish time: 10673
+job 198 finished
+MIG re-partition on GPU 7, jobs [98, 188], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 10676
+job 9 finished
+MIG re-partition on GPU 0, jobs [96, 72, 181], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Schedule time: 10677
+job 97 scheduled on GPU 7, jobs [98, 97, 188], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.567045220650682
+Finish time: 10732
+job 76 finished
+MIG re-partition on GPU 1, jobs [99, 199, 67], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Schedule time: 10734
+job 31 scheduled on GPU 0, jobs [96, 72, 31, 181], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 1.926146560496666
+Schedule time: 10793
+job 107 scheduled on GPU 1, jobs [99, 199, 67, 107], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 3.1451419574871764
+Schedule time: 10854
+job 108 scheduled on GPU 5, jobs [186, 91, 82, 108], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 3.2568318043526308
+Schedule time: 10922
+job 85 scheduled on GPU 7, jobs [97, 188, 85, 98], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.0440721572602696
+Finish time: 10934
+job 156 finished
+MIG re-partition on GPU 3, jobs [92, 185, 87], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 10935
+job 57 finished
+MIG re-partition on GPU 6, jobs [88, 196], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 10958
+job 107 finished
+MIG re-partition on GPU 1, jobs [99, 199, 67], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Schedule time: 10979
+job 167 scheduled on GPU 6, jobs [88, 167, 196], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 2.0956565174635107
+Finish time: 11014
+job 31 finished
+MIG re-partition on GPU 0, jobs [96, 72, 181], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 11025
+job 108 finished
+MIG re-partition on GPU 5, jobs [186, 91, 82], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Schedule time: 11025
+job 21 scheduled on GPU 0, jobs [96, 72, 21, 181], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 1.8930331948484267
+Finish time: 11073
+job 195 finished
+MIG re-partition on GPU 2, jobs [193, 197, 192], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Schedule time: 11095
+job 41 scheduled on GPU 1, jobs [99, 199, 67, 41], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.110689855910492
+Finish time: 11105
+job 188 finished
+MIG re-partition on GPU 7, jobs [97, 85, 98], slice ['4g.20gb', '2g.10gb', '1g.5gb'], 1 migration counts
+Schedule time: 11164
+job 75 scheduled on GPU 2, jobs [192, 197, 75, 193], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 2.242374794234852
+Schedule time: 11214
+job 44 scheduled on GPU 3, jobs [92, 87, 44, 185], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.678674121619644
+Finish time: 11227
+job 191 finished
+MIG re-partition on GPU 4, jobs [86, 174, 90], slice ['4g.20gb', '2g.10gb', '1g.5gb'], 1 migration counts
+Finish time: 11230
+job 21 finished
+MIG re-partition on GPU 0, jobs [96, 72, 181], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 11286
+job 14 scheduled on GPU 0, jobs [96, 72, 14, 181], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 1.830586310154096
+Schedule time: 11343
+job 59 scheduled on GPU 4, jobs [174, 90, 59, 86], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 1.746625835126455
+Finish time: 11373
+job 72 finished
+MIG re-partition on GPU 0, jobs [96, 14, 181], slice ['4g.20gb', '2g.10gb', '1g.5gb'], 1 migration counts
+Schedule time: 11410
+job 25 scheduled on GPU 0, jobs [96, 25, 14, 181], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.078421110957709
+Finish time: 11431
+job 67 finished
+MIG re-partition on GPU 1, jobs [99, 199, 41], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 11437
+job 14 finished
+MIG re-partition on GPU 0, jobs [96, 25, 181], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 11437
+job 41 finished
+MIG re-partition on GPU 1, jobs [99, 199], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Schedule time: 11475
+job 160 scheduled on GPU 1, jobs [99, 160, 199], slice ['2g.10gb', '2g.10gb', '3g.20gb'], new mean degradation 1.8514141476346344
+Schedule time: 11539
+job 54 scheduled on GPU 0, jobs [96, 25, 54, 181], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.178606397627307
+Schedule time: 11588
+job 165 scheduled on GPU 1, jobs [99, 199, 165, 160], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.8045342274412426
+Schedule time: 11662
+job 116 scheduled on GPU 5, jobs [186, 82, 116, 91], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 3.1144310656704643
+Finish time: 11711
+job 25 finished
+MIG re-partition on GPU 0, jobs [96, 54, 181], slice ['4g.20gb', '2g.10gb', '1g.5gb'], 1 migration counts
+Schedule time: 11719
+job 121 scheduled on GPU 0, jobs [96, 54, 121, 181], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.024010100856647
+Schedule time: 11787
+job 29 scheduled on GPU 6, jobs [88, 196, 167, 29], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.16363506726107
+Schedule time: 11843
+job 40 scheduled on GPU 7, jobs [97, 85, 98, 40], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 2.120330415058407
+Finish time: 11846
+job 44 finished
+MIG re-partition on GPU 3, jobs [92, 87, 185], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 11907
+job 103 scheduled on GPU 3, jobs [92, 185, 103, 87], slice ['2g.10gb', '1g.5gb', '1g.5gb', '3g.20gb'], new mean degradation 2.2360887460726695
+Finish time: 11924
+job 121 finished
+MIG re-partition on GPU 0, jobs [96, 54, 181], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 11945
+job 59 finished
+MIG re-partition on GPU 4, jobs [174, 90, 86], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Schedule time: 11962
+job 164 scheduled on GPU 0, jobs [96, 54, 164, 181], slice ['2g.10gb', '2g.10gb', '2g.10gb', '1g.5gb'], new mean degradation 2.1392885213117077
+Finish time: 11978
+job 192 finished
+MIG re-partition on GPU 2, jobs [197, 75, 193], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Finish time: 12013
+job 116 finished
+MIG re-partition on GPU 5, jobs [186, 82, 91], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 12014
+job 174 finished
+MIG re-partition on GPU 4, jobs [90, 86], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 12019
+job 29 finished
+MIG re-partition on GPU 6, jobs [88, 196, 167], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 12058
+job 103 finished
+MIG re-partition on GPU 3, jobs [92, 185, 87], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 12074
+job 54 finished
+MIG re-partition on GPU 0, jobs [96, 164, 181], slice ['4g.20gb', '2g.10gb', '1g.5gb'], 1 migration counts
+Finish time: 12081
+job 87 finished
+MIG re-partition on GPU 3, jobs [92, 185], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 12084
+job 185 finished
+MIG re-partition on GPU 3, jobs [92], slice ['7g.40gb'], 1 migration counts
+Finish time: 12116
+job 167 finished
+MIG re-partition on GPU 6, jobs [88, 196], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 12145
+job 40 finished
+MIG re-partition on GPU 7, jobs [97, 98, 85], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 2 migration counts
+Finish time: 12317
+job 75 finished
+MIG re-partition on GPU 2, jobs [197, 193], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 12366
+job 90 finished
+MIG re-partition on GPU 4, jobs [86], slice ['7g.40gb'], 1 migration counts
+Finish time: 12646
+job 181 finished
+MIG re-partition on GPU 0, jobs [96, 164], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 12689
+job 91 finished
+MIG re-partition on GPU 5, jobs [186, 82], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 12806
+job 82 finished
+MIG re-partition on GPU 5, jobs [186], slice ['7g.40gb'], 1 migration counts
+Finish time: 12866
+job 164 finished
+MIG re-partition on GPU 0, jobs [96], slice ['7g.40gb'], 1 migration counts
+Finish time: 12891
+job 160 finished
+MIG re-partition on GPU 1, jobs [99, 199, 165], slice ['2g.10gb', '2g.10gb', '3g.20gb'], 1 migration counts
+Finish time: 12967
+job 165 finished
+MIG re-partition on GPU 1, jobs [99, 199], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 13058
+job 86 finished
+Finish time: 13385
+job 92 finished
+Finish time: 13467
+job 85 finished
+MIG re-partition on GPU 7, jobs [97, 98], slice ['3g.20gb', '3g.20gb'], 2 migration counts
+Finish time: 13692
+job 186 finished
+Finish time: 13717
+job 88 finished
+MIG re-partition on GPU 6, jobs [196], slice ['7g.40gb'], 1 migration counts
+Finish time: 13874
+job 196 finished
+Finish time: 14613
+job 96 finished
+Finish time: 15051
+job 193 finished
+MIG re-partition on GPU 2, jobs [197], slice ['7g.40gb'], 1 migration counts
+Finish time: 15521
+job 99 finished
+MIG re-partition on GPU 1, jobs [199], slice ['7g.40gb'], 1 migration counts
+Finish time: 16585
+job 197 finished
+Finish time: 17143
+job 98 finished
+MIG re-partition on GPU 7, jobs [97], slice ['7g.40gb'], 1 migration counts
+Finish time: 17429
+job 97 finished
+Finish time: 17659
+job 199 finished
+Time: 17659, all jobs are finished!

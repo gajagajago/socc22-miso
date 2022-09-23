@@ -1,0 +1,401 @@
+Schedule time: 35
+job 59 scheduled on GPU 0
+Schedule time: 67
+job 78 scheduled on GPU 1
+Schedule time: 97
+job 47 scheduled on GPU 2
+Schedule time: 122
+job 34 scheduled on GPU 3
+Schedule time: 146
+job 17 scheduled on GPU 4
+Schedule time: 182
+job 23 scheduled on GPU 5
+Schedule time: 216
+job 86 scheduled on GPU 6
+Schedule time: 255
+job 0 scheduled on GPU 7
+Finish time: 266
+job 17 finished
+Schedule time: 286
+job 43 scheduled on GPU 4
+Finish time: 287
+job 34 finished
+Finish time: 308
+job 23 finished
+Schedule time: 314
+job 64 scheduled on GPU 3
+Finish time: 323
+job 47 finished
+Schedule time: 343
+job 99 scheduled on GPU 2
+Finish time: 375
+job 0 finished
+Schedule time: 375
+job 77 scheduled on GPU 5
+Finish time: 384
+job 59 finished
+Schedule time: 407
+job 10 scheduled on GPU 0
+Schedule time: 442
+job 42 scheduled on GPU 7
+Finish time: 489
+job 43 finished
+Schedule time: 489
+job 70 scheduled on GPU 4
+Finish time: 527
+job 10 finished
+Schedule time: 527
+job 98 scheduled on GPU 0
+Finish time: 640
+job 42 finished
+Schedule time: 640
+job 5 scheduled on GPU 7
+Finish time: 754
+job 64 finished
+Schedule time: 754
+job 48 scheduled on GPU 3
+Finish time: 760
+job 5 finished
+Schedule time: 760
+job 21 scheduled on GPU 7
+Finish time: 880
+job 21 finished
+Schedule time: 880
+job 57 scheduled on GPU 7
+Finish time: 988
+job 48 finished
+Schedule time: 988
+job 54 scheduled on GPU 3
+Finish time: 1044
+job 78 finished
+Schedule time: 1044
+job 20 scheduled on GPU 1
+Finish time: 1092
+job 70 finished
+Schedule time: 1092
+job 81 scheduled on GPU 4
+Finish time: 1164
+job 20 finished
+Schedule time: 1164
+job 30 scheduled on GPU 1
+Finish time: 1199
+job 57 finished
+Schedule time: 1199
+job 6 scheduled on GPU 7
+Finish time: 1272
+job 54 finished
+Schedule time: 1272
+job 14 scheduled on GPU 3
+Finish time: 1287
+job 77 finished
+Schedule time: 1287
+job 16 scheduled on GPU 5
+Finish time: 1313
+job 30 finished
+Schedule time: 1313
+job 90 scheduled on GPU 1
+Finish time: 1319
+job 6 finished
+Schedule time: 1319
+job 8 scheduled on GPU 7
+Finish time: 1392
+job 14 finished
+Schedule time: 1392
+job 49 scheduled on GPU 3
+Finish time: 1407
+job 16 finished
+Schedule time: 1407
+job 13 scheduled on GPU 5
+Finish time: 1439
+job 8 finished
+Schedule time: 1439
+job 37 scheduled on GPU 7
+Finish time: 1527
+job 13 finished
+Schedule time: 1527
+job 26 scheduled on GPU 5
+Finish time: 1615
+job 37 finished
+Schedule time: 1615
+job 28 scheduled on GPU 7
+Finish time: 1633
+job 49 finished
+Schedule time: 1633
+job 53 scheduled on GPU 3
+Finish time: 1662
+job 26 finished
+Schedule time: 1662
+job 11 scheduled on GPU 5
+Finish time: 1757
+job 28 finished
+Schedule time: 1757
+job 96 scheduled on GPU 7
+Finish time: 1782
+job 11 finished
+Schedule time: 1782
+job 58 scheduled on GPU 5
+Finish time: 1908
+job 53 finished
+Schedule time: 1908
+job 69 scheduled on GPU 3
+Finish time: 2046
+job 86 finished
+Schedule time: 2046
+job 25 scheduled on GPU 6
+Finish time: 2115
+job 58 finished
+Schedule time: 2115
+job 95 scheduled on GPU 5
+Finish time: 2178
+job 25 finished
+Schedule time: 2178
+job 88 scheduled on GPU 6
+Finish time: 2276
+job 81 finished
+Schedule time: 2276
+job 51 scheduled on GPU 4
+Finish time: 2484
+job 69 finished
+Schedule time: 2484
+job 2 scheduled on GPU 3
+Finish time: 2532
+job 51 finished
+Schedule time: 2532
+job 12 scheduled on GPU 4
+Finish time: 2604
+job 2 finished
+Schedule time: 2604
+job 45 scheduled on GPU 3
+Finish time: 2652
+job 12 finished
+Schedule time: 2652
+job 92 scheduled on GPU 4
+Finish time: 2818
+job 45 finished
+Schedule time: 2818
+job 67 scheduled on GPU 3
+Finish time: 3337
+job 67 finished
+Schedule time: 3337
+job 3 scheduled on GPU 3
+Finish time: 3457
+job 3 finished
+Schedule time: 3457
+job 24 scheduled on GPU 3
+Finish time: 3586
+job 24 finished
+Schedule time: 3586
+job 31 scheduled on GPU 3
+Finish time: 3595
+job 90 finished
+Schedule time: 3595
+job 71 scheduled on GPU 1
+Finish time: 3739
+job 31 finished
+Schedule time: 3739
+job 1 scheduled on GPU 3
+Finish time: 3859
+job 1 finished
+Schedule time: 3859
+job 15 scheduled on GPU 3
+Finish time: 3979
+job 15 finished
+Schedule time: 3979
+job 27 scheduled on GPU 3
+Finish time: 4117
+job 27 finished
+Schedule time: 4117
+job 7 scheduled on GPU 3
+Finish time: 4229
+job 71 finished
+Schedule time: 4229
+job 38 scheduled on GPU 1
+Finish time: 4237
+job 7 finished
+Schedule time: 4237
+job 65 scheduled on GPU 3
+Finish time: 4265
+job 88 finished
+Schedule time: 4265
+job 44 scheduled on GPU 6
+Finish time: 4409
+job 38 finished
+Schedule time: 4409
+job 68 scheduled on GPU 1
+Finish time: 4473
+job 44 finished
+Schedule time: 4473
+job 55 scheduled on GPU 6
+Finish time: 4703
+job 65 finished
+Schedule time: 4703
+job 39 scheduled on GPU 3
+Finish time: 4768
+job 55 finished
+Schedule time: 4768
+job 62 scheduled on GPU 6
+Finish time: 4887
+job 39 finished
+Schedule time: 4887
+job 93 scheduled on GPU 3
+Finish time: 4957
+job 68 finished
+Schedule time: 4957
+job 83 scheduled on GPU 1
+Finish time: 5167
+job 62 finished
+Schedule time: 5167
+job 82 scheduled on GPU 6
+Finish time: 5274
+job 92 finished
+Schedule time: 5274
+job 97 scheduled on GPU 4
+Finish time: 5888
+job 95 finished
+Schedule time: 5888
+job 32 scheduled on GPU 5
+Finish time: 5952
+job 96 finished
+Schedule time: 5952
+job 35 scheduled on GPU 7
+Finish time: 6011
+job 98 finished
+Schedule time: 6011
+job 18 scheduled on GPU 0
+Finish time: 6045
+job 32 finished
+Schedule time: 6045
+job 46 scheduled on GPU 5
+Finish time: 6120
+job 35 finished
+Schedule time: 6120
+job 89 scheduled on GPU 7
+Finish time: 6131
+job 18 finished
+Schedule time: 6131
+job 75 scheduled on GPU 0
+Finish time: 6265
+job 46 finished
+Schedule time: 6265
+job 61 scheduled on GPU 5
+Finish time: 6339
+job 83 finished
+Schedule time: 6339
+job 56 scheduled on GPU 1
+Finish time: 6425
+job 99 finished
+Schedule time: 6425
+job 91 scheduled on GPU 2
+Finish time: 6429
+job 82 finished
+Schedule time: 6429
+job 79 scheduled on GPU 6
+Finish time: 6645
+job 56 finished
+Schedule time: 6645
+job 84 scheduled on GPU 1
+Finish time: 6647
+job 61 finished
+Schedule time: 6647
+job 60 scheduled on GPU 5
+Finish time: 6927
+job 75 finished
+Schedule time: 6927
+job 76 scheduled on GPU 0
+Finish time: 7012
+job 60 finished
+Schedule time: 7012
+job 4 scheduled on GPU 5
+Finish time: 7132
+job 4 finished
+Schedule time: 7132
+job 85 scheduled on GPU 5
+Finish time: 7463
+job 79 finished
+Schedule time: 7463
+job 33 scheduled on GPU 6
+Finish time: 7624
+job 33 finished
+Schedule time: 7624
+job 66 scheduled on GPU 6
+Finish time: 7775
+job 76 finished
+Schedule time: 7775
+job 63 scheduled on GPU 0
+Finish time: 7825
+job 93 finished
+Schedule time: 7825
+job 29 scheduled on GPU 3
+Finish time: 7970
+job 29 finished
+Schedule time: 7970
+job 87 scheduled on GPU 3
+Finish time: 8116
+job 66 finished
+Schedule time: 8116
+job 9 scheduled on GPU 6
+Finish time: 8160
+job 84 finished
+Schedule time: 8160
+job 40 scheduled on GPU 1
+Finish time: 8194
+job 63 finished
+Schedule time: 8194
+job 19 scheduled on GPU 0
+Finish time: 8236
+job 9 finished
+Schedule time: 8236
+job 50 scheduled on GPU 6
+Finish time: 8295
+job 89 finished
+Schedule time: 8295
+job 36 scheduled on GPU 7
+Finish time: 8314
+job 19 finished
+Schedule time: 8314
+job 73 scheduled on GPU 0
+Finish time: 8348
+job 40 finished
+Schedule time: 8348
+job 94 scheduled on GPU 1
+Finish time: 8467
+job 36 finished
+Schedule time: 8467
+job 22 scheduled on GPU 7
+Finish time: 8484
+job 50 finished
+Schedule time: 8484
+job 80 scheduled on GPU 6
+Finish time: 8590
+job 22 finished
+Schedule time: 8590
+job 41 scheduled on GPU 7
+Finish time: 8783
+job 41 finished
+Schedule time: 8783
+job 74 scheduled on GPU 7
+Finish time: 8802
+job 85 finished
+Schedule time: 8802
+job 72 scheduled on GPU 5
+Finish time: 8826
+job 91 finished
+Schedule time: 8826
+job 52 scheduled on GPU 2
+Finish time: 9015
+job 73 finished
+Finish time: 9091
+job 52 finished
+Finish time: 9467
+job 72 finished
+Finish time: 9528
+job 74 finished
+Finish time: 9595
+job 80 finished
+Finish time: 9929
+job 87 finished
+Finish time: 10061
+job 97 finished
+Finish time: 11689
+job 94 finished
+Time: 11689, all jobs are finished!

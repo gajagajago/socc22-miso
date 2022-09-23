@@ -1,0 +1,432 @@
+Schedule time: 35
+job 59 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [59, 'idle', 'idle']
+Schedule time: 67
+job 78 scheduled on GPU 1, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [78, 'idle', 'idle']
+Schedule time: 97
+job 47 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [47, 'idle', 'idle']
+Schedule time: 122
+job 34 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [34, 'idle', 'idle']
+Schedule time: 146
+job 17 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [17, 'idle', 'idle']
+Schedule time: 182
+job 23 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [23, 'idle', 'idle']
+Schedule time: 216
+job 86 scheduled on GPU 6, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [86, 'idle', 'idle']
+Schedule time: 255
+job 0 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [0, 'idle', 'idle']
+Finish time: 281
+job 17 finished
+Schedule time: 286
+job 43 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [43, 'idle', 'idle']
+Schedule time: 314
+job 64 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [59, 64, 'idle']
+Finish time: 316
+job 34 finished
+Schedule time: 343
+job 99 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [99, 'idle', 'idle']
+Schedule time: 375
+job 77 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [59, 64, 77]
+Finish time: 406
+job 23 finished
+Schedule time: 407
+job 10 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [10, 'idle', 'idle']
+Schedule time: 442
+job 42 scheduled on GPU 1, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [78, 42, 'idle']
+Finish time: 500
+job 0 finished
+Schedule time: 500
+job 70 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [70, 'idle', 'idle']
+Schedule time: 502
+job 98 scheduled on GPU 1, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [78, 42, 98]
+Schedule time: 533
+job 5 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [47, 5, 'idle']
+Finish time: 540
+job 47 finished
+Promotion on GPU 2, jobs [5, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 585
+job 21 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [5, 21, 'idle']
+Finish time: 612
+job 43 finished
+Schedule time: 612
+job 48 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [48, 'idle', 'idle']
+Schedule time: 640
+job 54 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [5, 21, 54]
+Finish time: 652
+job 10 finished
+Schedule time: 652
+job 57 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [57, 'idle', 'idle']
+Schedule time: 676
+job 20 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [99, 20, 'idle']
+Schedule time: 704
+job 81 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [99, 20, 81]
+Finish time: 716
+job 5 finished
+Promotion on GPU 2, jobs [21, 'idle', 54], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 722
+job 42 finished
+Finish time: 731
+job 21 finished
+Promotion on GPU 2, jobs [54, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 740
+job 30 scheduled on GPU 1, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [78, 30, 98]
+Finish time: 745
+job 59 finished
+Promotion on GPU 0, jobs [64, 'idle', 77], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 770
+job 6 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [64, 6, 77]
+Schedule time: 790
+job 14 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [54, 14, 'idle']
+Finish time: 804
+job 64 finished
+Promotion on GPU 0, jobs [6, 'idle', 77], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 817
+job 16 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [6, 16, 77]
+Schedule time: 844
+job 90 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [54, 14, 90]
+Schedule time: 871
+job 8 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [48, 8, 'idle']
+Finish time: 902
+job 20 finished
+Schedule time: 908
+job 49 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [99, 49, 81]
+Schedule time: 945
+job 13 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [48, 8, 13]
+Finish time: 954
+job 6 finished
+Promotion on GPU 0, jobs [16, 'idle', 77], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 977
+job 37 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [16, 37, 77]
+Schedule time: 1009
+job 26 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [57, 26, 'idle']
+Finish time: 1014
+job 8 finished
+Finish time: 1046
+job 54 finished
+Schedule time: 1046
+job 28 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [28, 14, 90]
+Finish time: 1067
+job 16 finished
+Promotion on GPU 0, jobs [37, 'idle', 77], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 1071
+job 48 finished
+Promotion on GPU 4, jobs [13, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 1078
+job 78 finished
+Promotion on GPU 1, jobs [30, 'idle', 98], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 1091
+job 53 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [37, 53, 77]
+Finish time: 1094
+job 30 finished
+Promotion on GPU 1, jobs [98, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 1143
+job 13 finished
+Schedule time: 1152
+job 11 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [11, 'idle', 'idle']
+Finish time: 1185
+job 14 finished
+Schedule time: 1211
+job 96 scheduled on GPU 1, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [98, 96, 'idle']
+Finish time: 1235
+job 57 finished
+Promotion on GPU 5, jobs [26, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 1243
+job 26 finished
+Schedule time: 1267
+job 58 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [58, 'idle', 'idle']
+Finish time: 1276
+job 11 finished
+Finish time: 1306
+job 28 finished
+Promotion on GPU 2, jobs [90, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 1323
+job 69 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [69, 'idle', 'idle']
+Finish time: 1375
+job 37 finished
+Promotion on GPU 0, jobs [53, 'idle', 77], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 1385
+job 25 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [53, 25, 77]
+Schedule time: 1430
+job 95 scheduled on GPU 1, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [98, 96, 95]
+Schedule time: 1497
+job 88 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [90, 88, 'idle']
+Finish time: 1538
+job 53 finished
+Promotion on GPU 0, jobs [25, 'idle', 77], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 1559
+job 51 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [25, 51, 77]
+Schedule time: 1615
+job 2 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [90, 88, 2]
+Finish time: 1628
+job 25 finished
+Promotion on GPU 0, jobs [51, 'idle', 77], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 1640
+job 49 finished
+Schedule time: 1670
+job 12 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [51, 12, 77]
+Finish time: 1681
+job 70 finished
+Schedule time: 1734
+job 45 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [45, 'idle', 'idle']
+Schedule time: 1777
+job 92 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [99, 92, 81]
+Schedule time: 1826
+job 67 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [69, 67, 'idle']
+Finish time: 1841
+job 2 finished
+Finish time: 1876
+job 12 finished
+Schedule time: 1897
+job 3 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [51, 3, 77]
+Finish time: 1912
+job 58 finished
+Schedule time: 1950
+job 24 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [24, 'idle', 'idle']
+Schedule time: 1999
+job 31 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [90, 88, 31]
+Finish time: 2047
+job 3 finished
+Finish time: 2084
+job 51 finished
+Schedule time: 2084
+job 71 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [71, 'idle', 77]
+Finish time: 2094
+job 45 finished
+Schedule time: 2109
+job 1 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [1, 'idle', 'idle']
+Finish time: 2154
+job 24 finished
+Schedule time: 2172
+job 15 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [15, 'idle', 'idle']
+Schedule time: 2226
+job 27 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [71, 27, 77]
+Finish time: 2245
+job 1 finished
+Schedule time: 2279
+job 7 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [7, 'idle', 'idle']
+Finish time: 2349
+job 15 finished
+Schedule time: 2352
+job 38 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [38, 'idle', 'idle']
+Finish time: 2369
+job 31 finished
+Finish time: 2376
+job 81 finished
+Schedule time: 2413
+job 65 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [90, 88, 65]
+Finish time: 2438
+job 69 finished
+Promotion on GPU 4, jobs [67, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 2463
+job 27 finished
+Schedule time: 2475
+job 44 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [71, 44, 77]
+Finish time: 2514
+job 7 finished
+Schedule time: 2536
+job 68 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [68, 'idle', 'idle']
+Schedule time: 2598
+job 55 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [99, 92, 55]
+Schedule time: 2649
+job 39 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [67, 39, 'idle']
+Finish time: 2672
+job 38 finished
+Schedule time: 2713
+job 62 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [62, 'idle', 'idle']
+Schedule time: 2772
+job 93 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [67, 39, 93]
+Schedule time: 2832
+job 83 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [62, 83, 'idle']
+Finish time: 2863
+job 44 finished
+Schedule time: 2879
+job 82 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [71, 82, 77]
+Finish time: 2910
+job 86 finished
+Schedule time: 2940
+job 97 scheduled on GPU 6, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [97, 'idle', 'idle']
+Finish time: 2959
+job 65 finished
+Finish time: 2988
+job 67 finished
+Promotion on GPU 4, jobs [39, 'idle', 93], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 2992
+job 32 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [90, 88, 32]
+Schedule time: 3047
+job 35 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [39, 35, 93]
+Finish time: 3076
+job 39 finished
+Promotion on GPU 4, jobs [35, 'idle', 93], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 3113
+job 18 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [35, 18, 93]
+Finish time: 3236
+job 35 finished
+Schedule time: 3236
+job 46 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [46, 18, 93]
+Schedule time: 3239
+job 89 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [62, 83, 89]
+Finish time: 3279
+job 32 finished
+Schedule time: 3301
+job 75 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [90, 88, 75]
+Finish time: 3326
+job 71 finished
+Promotion on GPU 0, jobs [82, 'idle', 77], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 3353
+job 62 finished
+Promotion on GPU 5, jobs [83, 'idle', 89], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 3364
+job 61 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [82, 61, 77]
+Finish time: 3372
+job 77 finished
+Finish time: 3426
+job 18 finished
+Schedule time: 3430
+job 56 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [82, 61, 56]
+Schedule time: 3489
+job 91 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [46, 91, 93]
+Finish time: 3495
+job 90 finished
+Promotion on GPU 2, jobs [88, 'idle', 75], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 3510
+job 68 finished
+Schedule time: 3549
+job 79 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [79, 'idle', 'idle']
+Finish time: 3662
+job 46 finished
+Schedule time: 3662
+job 84 scheduled on GPU 4, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [84, 91, 93]
+Schedule time: 3670
+job 60 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [88, 60, 75]
+Schedule time: 3729
+job 76 scheduled on GPU 5, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [83, 76, 89]
+Finish time: 3739
+job 55 finished
+Schedule time: 3778
+job 4 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [99, 92, 4]
+Finish time: 3818
+job 61 finished
+Schedule time: 3826
+job 85 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [82, 85, 56]
+Schedule time: 3872
+job 33 scheduled on GPU 6, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [97, 33, 'idle']
+Finish time: 3921
+job 4 finished
+Schedule time: 3934
+job 66 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [99, 92, 66]
+Schedule time: 3998
+job 63 scheduled on GPU 6, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [97, 33, 63]
+Finish time: 4006
+job 56 finished
+Schedule time: 4054
+job 29 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [82, 85, 29]
+Finish time: 4064
+job 33 finished
+Schedule time: 4122
+job 87 scheduled on GPU 6, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [97, 87, 63]
+Schedule time: 4179
+job 9 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [79, 9, 'idle']
+Finish time: 4190
+job 82 finished
+Promotion on GPU 0, jobs [85, 'idle', 29], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 4236
+job 40 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [85, 40, 29]
+Finish time: 4272
+job 29 finished
+Schedule time: 4304
+job 19 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [85, 40, 19]
+Finish time: 4326
+job 75 finished
+Finish time: 4334
+job 9 finished
+Schedule time: 4364
+job 50 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [88, 60, 50]
+Schedule time: 4417
+job 36 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [79, 36, 'idle']
+Schedule time: 4499
+job 73 scheduled on GPU 7, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [79, 36, 73]
+Finish time: 4528
+job 19 finished
+Finish time: 4568
+job 66 finished
+Schedule time: 4569
+job 94 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [85, 40, 94]
+Finish time: 4580
+job 88 finished
+Promotion on GPU 2, jobs [60, 'idle', 50], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Schedule time: 4621
+job 22 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [60, 22, 50]
+Schedule time: 4680
+job 80 scheduled on GPU 3, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [99, 92, 80]
+Finish time: 4764
+job 60 finished
+Schedule time: 4764
+job 41 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [41, 22, 50]
+Finish time: 4780
+job 22 finished
+Schedule time: 4803
+job 74 scheduled on GPU 2, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [41, 74, 50]
+Finish time: 4908
+job 63 finished
+Schedule time: 4908
+job 72 scheduled on GPU 6, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [97, 87, 72]
+Finish time: 4964
+job 40 finished
+Schedule time: 4964
+job 52 scheduled on GPU 0, partition ['3g.20gb', '2g.10gb', '2g.10gb'], jobs [85, 52, 94]
+Finish time: 4987
+job 36 finished
+Finish time: 4991
+job 79 finished
+Promotion on GPU 7, jobs [73, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 5004
+job 76 finished
+Finish time: 5134
+job 41 finished
+Promotion on GPU 2, jobs [74, 'idle', 50], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 5140
+job 83 finished
+Promotion on GPU 5, jobs [89, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 5145
+job 50 finished
+Finish time: 5390
+job 73 finished
+Finish time: 5765
+job 72 finished
+Finish time: 5798
+job 52 finished
+Finish time: 5895
+job 74 finished
+Finish time: 6071
+job 89 finished
+Finish time: 6556
+job 93 finished
+Finish time: 6593
+job 84 finished
+Promotion on GPU 4, jobs [91, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 6844
+job 85 finished
+Promotion on GPU 0, jobs [94, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 6977
+job 91 finished
+Finish time: 7336
+job 80 finished
+Finish time: 7698
+job 87 finished
+Finish time: 8558
+job 97 finished
+Finish time: 8915
+job 94 finished
+Finish time: 9656
+job 99 finished
+Promotion on GPU 3, jobs [92, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 10118
+job 92 finished
+Finish time: 10475
+job 98 finished
+Promotion on GPU 1, jobs [96, 'idle', 95], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 10496
+job 96 finished
+Promotion on GPU 1, jobs [95, 'idle', 'idle'], slice ['3g.20gb', '2g.10gb', '2g.10gb']
+Finish time: 12573
+job 95 finished
+Time: 12573, all jobs are finished!
